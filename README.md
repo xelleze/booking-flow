@@ -17,7 +17,7 @@ npm install
 
 ## 2. Konfigurera miljövariabler
 
-Skapa en `.env`-fil i projektroten (eller använd `.env.local`) med:
+Skapa en `.env.local` file 
 
 ```env
 DATABASE_URL=postgres://user:password@db:5432/booking
@@ -156,5 +156,6 @@ AI används redan i den här implementationen för att:
 ### 3. Auth & Adminvy
 - Inloggning för att se bokningar, kunder och mejlloggar  
 - Filtrering, sökning och statusrapporter  
+
 
 
