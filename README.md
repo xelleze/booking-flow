@@ -134,7 +134,7 @@ AI används redan i den här implementationen för att:
 
 # Resultat
 
-## Formulär - Kund fyller i namn, e-post och önskat flyttdatum
+## Formulär
 <img width="870" height="561" alt="image" src="https://github.com/user-attachments/assets/b3e972c7-290d-4bfe-ae1c-d11673e54d1d" />
 
 ## Bekräftelse - Skicka ett automatiskt bekräftelsemejl
@@ -156,6 +156,7 @@ AI används redan i den här implementationen för att:
 ### 3. Auth & Adminvy
 - Inloggning för att se bokningar, kunder och mejlloggar  
 - Filtrering, sökning och statusrapporter  
+
 
 
 
